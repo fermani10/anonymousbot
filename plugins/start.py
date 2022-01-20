@@ -14,7 +14,7 @@ Hola, soy **ANONYMOUS REMITENTE BOT.**\n
 Solo reenvíeme algunos mensajes o
 medios y yo ** los voy a Anonimizar** !!
 
-~ Creado por @Facu.Glitch para AnneBelen.
+~ Reparado por @Facu.Glitch para AnneBelen.
 """
 
 if var.START_MESSAGE is not None:
